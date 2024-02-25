@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TerrainScene.unity
     guid: 4d4d60fb44beb1046b9753e621e8d31c
+  - enabled: 1
+    path: Assets/Scenes/Hospital.unity
+    guid: d99dc74563098994caaebad0413e2202
   m_configObjects: {}
